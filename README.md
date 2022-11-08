@@ -1,2 +1,2 @@
-# larave_ec
+# laravel_ec
 Laravel練習用のリポジトリです。
